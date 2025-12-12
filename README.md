@@ -1,12 +1,9 @@
-# React + Vite
+# توضیحات مختصر
+سورس کدی که توی این ریپازتوری قرار داره مربوط به یک اپلیکیشن چت انلاین تحت وب میشه ، این برنامه از هیچ پایگاه داده ای استفاده نمیکنه بنابراین گفتگو ها ذخیره نمیشوند.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ابزار های مورد استفاده 
+کلاینت این برنامه از ریکت، تیل ویند و پکیج سوکت ای او کلاینت برای اتصال به سرور استفاده میکنه.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# نحوه اجرا 
+برای اجرا در حالت دولوپمنت تنها کافیه دستور زیر رو اجرا کنید
+npm run dev 
